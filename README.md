@@ -15,6 +15,6 @@ Apart from file manager integration using the krita.thumbnailer file above, it i
 krita-thumbnailer.py [-s size] input output
 
 where
-* from input is the input (.krita) file to process
+* input is the input (.krita) file to process
 * output is the output (.png) file to store the thumbnail
 * size is optional and scales the output file to the specified number of pixels
