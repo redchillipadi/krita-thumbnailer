@@ -1,6 +1,8 @@
 #!/usr/bin/env python3.5
 
 # ##### BEGIN GPL LICENSE BLOCK #####
+#  krita-thumbnailer.py - extract thumbnails for krita files
+#  Copyright (C) 2017 Adrian Grigo
 #
 #  This program is free software; you can redistribute it and/or
 #  modify it under the terms of the GNU General Public License
