@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=krita-thumbnailer.py
+Exec=krita-thumbnailer.py %u %o
+MimeType=application/x-krita;
